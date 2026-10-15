@@ -1,0 +1,10 @@
+part_id,part_name,category,machine_model,voltage,stock,location
+P001,Electric Motor,Motor,M100,230,5,A1-R1
+P002,Ball Bearing,Bearing,M100,0,12,A1-R2
+P003,Drive Belt,Belt,M200,0,8,B2-R1
+P004,Water Pump,Pump,M300,230,3,B2-R2
+P005,Cooling Fan,Fan,M100,230,0,C1-R1
+P006,Electric Motor,Motor,M200,415,2,A1-R3
+P007,Ball Bearing,Bearing,M200,0,7,A1-R4
+P008,Drive Belt,Belt,M300,0,0,B2-R3
+
